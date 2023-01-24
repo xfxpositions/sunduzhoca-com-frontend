@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: "Euclid";
+  src: url("assets/fonts/euclid.ttf");
+}
+:root {
+}
